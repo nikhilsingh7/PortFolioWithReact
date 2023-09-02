@@ -48,7 +48,7 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="Project using NASA Api"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="This project has been involved in numerous space innovation and projects that have provided a wealth of images and data about our universe, including planets, stars, galaxies, and more"
               ghLink="https://nikhilsingh7.github.io/Search-Image-Bot/"
               demoLink="https://nikhilsingh7.github.io/Nasa-Image-of-the-day-4thF3/"              
             />
@@ -59,10 +59,10 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="PortFolio"
-              description="Plan-With-Love in this project,I have to create some simple card and In this card I have to describe with city where are go and A button tag is used below the card if you are not interested then that card will disappear as soon as you click on the not interested button and if you click on all the buttons not interested then the whole card will disappear and when you click on the refresh button  Click on  If you click on all the cards will come back again. ."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="E-commerce web app"
+              description="E-commerce, short for electronic commerce, refers to the buying and selling of goods and services over the internet or other electronic systems. It has become a significant part of the global economy and has transformed the way people shop and do business"
+              ghLink="https://github.com/nikhilsingh7/E-CommerceWebAppUsingMERN"
+              demoLink="https://chatify-49.web.a/"
             />
           </Col>
 
@@ -70,10 +70,10 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              title="Bloging app- still working"
+              description="A blogging app is a software application designed to facilitate the creation, editing, and management of blog posts for bloggers. These apps are especially useful for individuals and organizations looking to publish content online in a blog format."
+              ghLink="https://github.co/soumyajit4419/Bits-0f-C0de"
+              demoLink="htts://blogs.soumya-jit.tech/"
             />
           </Col>
 
@@ -81,10 +81,10 @@ function Projects() {
             <ProjectCard
               imgPath={editor}
               isBlog={false}
-              title="Editor.io"
+              title="Money tracking machine"
               description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="https://github.c/soumyajit4419/Editor.io"
+              demoLink="https://edi.soumya-jit.tech/"              
             />
           </Col>
 
