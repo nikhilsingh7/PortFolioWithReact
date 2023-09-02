@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="PortFolio"
               description="Plan-With-Love in this project,I have to create some simple card and In this card I have to describe with city where are go and A button tag is used below the card if you are not interested then that card will disappear as soon as you click on the not interested button and if you click on all the buttons not interested then the whole card will disappear and when you click on the refresh button  Click on  If you click on all the cards will come back again. ."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/nikhilsingh7/PortFolioWithReact"
+              demoLink="https://port-folio-with-react-eight.vercel.app/project"
             />
           </Col>
 
